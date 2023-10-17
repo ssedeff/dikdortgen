@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\bin\Debug\dikdörtgen.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\bin\Debug\dikdörtgen.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\bin\Debug\dikdörtgen.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\dikdörtgen\dikdörtgen\obj\Debug\dikdörtgen.pdb
